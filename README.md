@@ -1,19 +1,13 @@
 # Wellcome to Creative Writer
 
-## live Sites
+## live Site Link [Visit the Site](https://wildlife-faa1f.web.app/).
 
-This is our project live sites [Visit this Websits](https://wildlife-faa1f.web.app/).
-
-## Github Repo
-
-This is our project live sites source code [Visit this Websits](https://github.com/programming-hero-web-course-4/independent-service-provider-ShadekulShovo).
-
-## My websits Type
+## Website Type
 
 - This is a Independate-service-provider.
 - In this project is individual writer's website .
 
-# How I create the website
+# Technologies I Used
 
 - This is a react websites
 - first of all create a react app[React Doc](https://reactjs.org/docs/create-a-new-react-app.html)
