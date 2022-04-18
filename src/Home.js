@@ -95,15 +95,13 @@ const Home = () => {
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the first item's accordion body.</strong> It is
-                shown by default, until the collapse plugin adds the appropriate
-                classes that we use to style each element. These classes control
-                the overall appearance, as well as the showing and hiding via
-                CSS transitions. You can modify any of this with custom CSS or
-                overriding our default variables. It's also worth noting that
-                just about any HTML can go within the{" "}
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                <p>
+                  Simply defined, authentication is the process of confirming
+                  that someone is who they claim to be, while authorization is
+                  the process of confirming that a person has access to the
+                  particular apps, files, and data that they claim to have
+                  access to.
+                </p>
               </div>
             </div>
           </div>
@@ -128,15 +126,42 @@ const Home = () => {
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the second item's accordion body.</strong> It is
-                hidden by default, until the collapse plugin adds the
-                appropriate classes that we use to style each element. These
-                classes control the overall appearance, as well as the showing
-                and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth
-                noting that just about any HTML can go within the{" "}
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                <p>
+                  <b>Why firebase?</b> <br /> <br />
+                  You can use Firebase to develop online and mobile
+                  applications, increase app quality, and help your customers
+                  expand their businesses. <br />
+                  Firebase administers the database in real-time. So data
+                  communication between the database is simple and rapid. So, if
+                  you want to build mobile applications like live streaming or
+                  texting, you can utilize Firebase. <br />
+                  Make an app without a backend server. <br />
+                  No SQL database, therefore quicker. <br />
+                  No need to pay for a backend server. <br />
+                  Sync live data in the app. <br />
+                  Real-time data synchronization across Android, iOS, and web
+                  devices is possible with Firebase. <br /> <br /> <br />
+                  <b>
+                    When it comes to authentication, what other alternatives am
+                    I left with?
+                  </b>{" "}
+                  <br /> <br />
+                  STYTCH : STYTCH is a staunch supporter of password-less
+                  authentication. It is focused on improving user experience and
+                  cutting developer headaches by doing just that. <br />
+                  Ory : Ory brings complete user experience control with its
+                  headless user authentication management. <br />
+                  Supabase : Supabase calls itself an open-source Firebase
+                  alternative. <br />
+                  Okta : Okta is again a flagbearer of password-less security.
+                  However, you can ask for the strongest passwords with Okta as
+                  well. <br />
+                  PingIdentity: PingIdentity is shaped as an intelligent central
+                  authentication module for all your cloud, in-house, and SaaS
+                  implementations. <br />
+                  Keycloak : Keycloak is an open-source user identity and access
+                  management platform. <br />
+                </p>
               </div>
             </div>
           </div>
@@ -161,15 +186,22 @@ const Home = () => {
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is
-                hidden by default, until the collapse plugin adds the
-                appropriate classes that we use to style each element. These
-                classes control the overall appearance, as well as the showing
-                and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth
-                noting that just about any HTML can go within the{" "}
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                Firebase Realtime Database: was the first product released under
+                the Firebase banner, making it the most established and
+                dependable service. Scalability, sophisticated data structures,
+                and powerful querying options are all features of Cloud
+                Firestore. <br />
+                Web hosting: Web apps, progressive web apps, and mobile landing
+                pages all need hosting. Firebase provides static web hosting for
+                HTML, CSS, and JavaScript apps. Test Lab is a service that
+                allows you to test your app on real-world devices. It may be
+                used with current testing tools like Android Studio. <br />
+                App Distribution: This is a beta-testing distribution service.
+                Symbolic. To handle pre-release builds, use App Distribution's
+                CLI to establish a single hub for both iOS and Android apps.
+                Firebase Realtime Database: was the first product released under
+                the Firebase banner, making it the most established and
+                dependable service.
               </div>
             </div>
           </div>
