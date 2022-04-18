@@ -7,20 +7,21 @@ const About = () => {
         <div className="row my-5">
           <dir className="col-md-6 d-flex align-items-center">
             <div>
-              <h1>Hi,</h1>
-              <h2>Name : S. K. M Shadekul Islam </h2>
+              <h1>As salamu alaykum,</h1>
+              <h2>I am S. K. M Shadekul Islam </h2>
               <p>
-                Skill: I am Web Developer. I am also an expert in HTML, CSS,
-                JAVA-Script, Flutter,c, c++, Python PHP with WordPress.
+                Skill: <br /> 1. Content Writing <br /> 2. Keyword Research{" "}
+                <br /> 3. HTML, CSS (Bootstrap) <br /> 4. Javascript, Python
+                (Django)
               </p>
 
               <p>
-                My goal is a be one of the best Full Stack Web Developer in
-                2022.Making yourself more efficient in the web development
-                sector.I would like to join a job as a developer in any company
-                at the end of this course so that I can pursue my own hobbies.{" "}
+                My Goal for 2022: <br /> 1. Maintain a CGPA of 3.85 <br /> 2.
+                Focus on Web Development <br /> 3. Practice Data Structure and
+                Algorithm Extensively <br />
+                4. Regular Problem Solving <br /> 5. Maintain a weight of 65 KG
               </p>
-              <button type="button" class="btn btn-primary btn-lg">
+              <button type="button" class="btn btn-warning btn-lg">
                 Learn More
               </button>
             </div>
@@ -28,7 +29,7 @@ const About = () => {
 
           <div className="col-md-6 product">
             {/* <img src='./images/product.jpg' alt="" /> */}
-            <img src="https://ibb.co/KDGmTP5" alt="" />
+            <img src="https://i.ibb.co/0DcXmpt/IMG-1003.jpg" alt="" />
           </div>
         </div>
       </div>
@@ -37,3 +38,8 @@ const About = () => {
 };
 
 export default About;
+
+// npm install -g firebase-tools
+// firebase login
+// firebase init
+// firebase deploy

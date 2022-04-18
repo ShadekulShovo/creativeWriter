@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Basic Plan",
+    "price": 15,
+    "detail": "I will write an SEO Optimised post of up to 250 words on a chosen topic."
+  },
+  {
+    "id": "2",
+    "name": "Silver Paln",
+    "price": 30,
+    "detail": "I will write an SEO Optimised post of up to 500 words on a chosen topic."
+  },
+  {
+    "id": "3",
+    "name": "Golden Plan",
+    "price": 50,
+    "detail": "I will write an SEO Optimised post of 750+ words on a chosen topic. "
+  },
+  {
+    "id": "4",
+    "name": "Custom Plan",
+    "price": "TBD",
+    "detail": "I am a professional freelance content writer. Contact Me For Custom Order"
+  }
+]
