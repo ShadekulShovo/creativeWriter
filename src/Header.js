@@ -13,17 +13,26 @@ const Header = () => {
   };
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-dark ">
         <div className="container">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand text-white" href="#">
             Creative Writer
           </a>
 
           <div className="" id="navbarNavAltMarkup">
             <div className="navbar-nav all-nav">
-              <Customlink to="/">Home</Customlink>
-              <Customlink to="/blog">Blogs</Customlink>
-              <Customlink to="/about">About</Customlink>
+              <Customlink className="text-white" to="/">
+                Home
+              </Customlink>
+              <Customlink className="text-white" to="/service">
+                Services
+              </Customlink>
+              <Customlink className="text-white" to="/blog">
+                Blogs
+              </Customlink>
+              <Customlink className="text-white" to="/about">
+                About
+              </Customlink>
 
               {user ? (
                 <button

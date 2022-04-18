@@ -3,8 +3,8 @@ import React from "react";
 const Servicedetail = () => {
   return (
     <div>
-      <h1 className="mt-5">Welcome Service Details</h1>
-      <p>
+      <h1 className="mt-5 p-3">Here is my Service Details</h1>
+      <p className="p-3">
         Everyone knows that creating SEO optimized content is key to ranking
         highly in search engines. But not enough people know that it’s not only
         about speaking to search engines, you still need to write stuff that

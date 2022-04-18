@@ -2,7 +2,7 @@ import React from "react";
 
 const Blog = () => {
   return (
-    <div>
+    <div className="p-2">
       <h1 className="mt-4">
         একটি ইউরোপীয় রীতি এবং আমাদের উপলব্ধি(A European Culture and Our Thoughts
         as Muslims!!)
