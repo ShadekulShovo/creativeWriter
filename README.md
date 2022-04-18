@@ -1,6 +1,6 @@
-# Wellcome to Creative Writer
+# Wellcome to "Creative Writer"
 
-## live Site Link [Visit the Site](https://wildlife-faa1f.web.app/).
+## Live Site Link [Visit the Site](https://wildlife-faa1f.web.app/).
 
 ## Website Type
 
